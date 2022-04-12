@@ -4,15 +4,15 @@ The application has  inbuilt functionalities which is visible to every employee,
 
 ## Screenshots
 ##MainActivity
-This activity consists of all the features present in the app
+This activity consists of all the features present in the app__
 ![App Screenshot](https://github.com/Nurul0786/NurulHudaKhan_Innovaccer/blob/main/Screenshots/MainActivity.jpeg)
 
 ##DrinkWaterActivity
-This activity reminds the user to drink water
+This activity reminds the user to drink water__
 ![App Screenshot](https://github.com/Nurul0786/NurulHudaKhan_Innovaccer/blob/main/Screenshots/DrinkWaterActivity.jpeg)
 
 ##JoggingActivity
-This activity keeps track of user step count using SensorManager
+This activity keeps track of user step count using SensorManager__
 ![App Screenshot](https://github.com/Nurul0786/NurulHudaKhan_Innovaccer/blob/main/Screenshots/JoggingActivity.jpeg)
 
 ##YogaActivity
